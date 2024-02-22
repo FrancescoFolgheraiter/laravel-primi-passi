@@ -33,9 +33,9 @@ $linkNav=['home','about','service','contact'];
         </nav>
     </header>
     <main>
-        <h1>
-            Hello world
-        </h1>
+        <h2>
+            Contact
+        </h2>
     </main>
 </body>
 </html>
